@@ -10,4 +10,5 @@ A Raspbeery Pi Pico based Autonomous Vehicle Solution
 
 ## Progress Log
 * Stage 1: Being able to manoeuvre and avoid any obstacle detected
-<img src="Stage1.mp4>
+
+<video src="Stage1.mp4" controls></video>
