@@ -10,5 +10,3 @@ A Raspbeery Pi Pico based Autonomous Vehicle Solution
 
 ## Progress Log
 * Stage 1: Being able to manoeuvre and avoid any obstacle detected
-
-![Watch the video](https://github.com/AnaOnTram/PiCar/blob/main/Stage1.mp4)
